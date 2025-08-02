@@ -2,15 +2,7 @@
 
 An [rsync](https://wiki.archlinux.org/title/rsync)-like program to sync files between a computer and an Android device
 
-## Installation
-
-Available on [PyPI](https://pypi.org/project/BetterADBSync/)
-
-```
-$ pip install BetterADBSync
-```
-
-## QRD
+## Quick Start
 
 To push from your computer to your phone use
 ```
